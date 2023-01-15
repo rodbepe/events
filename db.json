@@ -29,6 +29,16 @@
       "date": "July 22, 2022",
       "time": "11:00",
       "organizer": "Carey Wales"
+    },
+    {
+      "id": 101112,
+      "category": "sustainability",
+      "title": "Enseñandole a Ck a mandar objetos",
+      "description": "Mostraremos como mandar informacion de un backend a un front.",
+      "location": "Guadalajara",
+      "date": "January 15, 2023",
+      "time": "16:00",
+      "organizer": "Carey Wales"
     }
   ]
 }
