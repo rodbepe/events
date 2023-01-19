@@ -39,6 +39,16 @@
       "date": "January 15, 2023",
       "time": "16:00",
       "organizer": "Carey Wales"
+    },
+    {
+      "id": 10111213,
+      "category": "sustainability",
+      "title": "Diana es un ejemplo",
+      "description": "Mostraremos como mandar informacion de un backend a un front.",
+      "location": "Guadalajara",
+      "date": "January 15, 2023",
+      "time": "18:00",
+      "organizer": "Carey Wales"
     }
   ]
 }
